@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/handsart-physio/static/css/main.4268c04f.css",
+    "main.js": "/handsart-physio/static/js/main.723c1196.js",
+    "static/js/787.60921942.chunk.js": "/handsart-physio/static/js/787.60921942.chunk.js",
+    "static/media/i17rc.png": "/handsart-physio/static/media/i17rc.a352912a7a37ead10f6f.png",
+    "static/media/logoHanstart.png": "/handsart-physio/static/media/logoHanstart.bf3f5bb11bb2cadf8bc8.png",
+    "static/media/ins.png": "/handsart-physio/static/media/ins.7bf0e187e121780e7a38.png",
+    "index.html": "/handsart-physio/index.html",
+    "main.4268c04f.css.map": "/handsart-physio/static/css/main.4268c04f.css.map",
+    "main.723c1196.js.map": "/handsart-physio/static/js/main.723c1196.js.map",
+    "787.60921942.chunk.js.map": "/handsart-physio/static/js/787.60921942.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4268c04f.css",
+    "static/js/main.723c1196.js"
+  ]
+}
