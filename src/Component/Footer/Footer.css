@@ -1,0 +1,19 @@
+.footerlogo{
+    width: 100px;
+    height: auto;
+}
+
+
+.social img {
+    width: 40px; /* Adjust the width as needed */
+    height: 40px; /* Adjust the height to maintain aspect ratio */
+}
+  
+/* Footer.css */
+
+/* Apply text transformation to capitalize each word */
+ul li a {
+    text-transform: capitalize;
+}
+
+  
