@@ -1,0 +1,65 @@
+.testimonials-section {
+    text-align: center;
+    padding: 40px 0;
+}
+  
+.testimonials-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    justify-content: center;
+}
+  
+.testimonial-item {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    text-align: left;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+}
+  
+.testimonial-header {
+    display: flex;
+    align-items: center;
+}
+  
+.testimonial-stars {
+    display: flex;
+}
+  
+.testimonial-name {
+    font-size: 15px;
+    margin: 0;
+    padding-left: 12px;
+}
+  
+.testimonial-item p {
+    font-size: 14px;
+    line-height: 1.5;
+    margin-top: 10px;
+}
+    
+.all-reviews {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px dashed #1D3157; */
+  }
+  
+  .all-reviews-link {
+    text-decoration: none;
+    color: #13A89E; /* Default color */
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 2px solid #13A89E;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .all-reviews-link:hover {
+    background-color: #13A89E; /* Change background on hover */
+    color: white; /* Change text color to white on hover */
+  }
+  
+

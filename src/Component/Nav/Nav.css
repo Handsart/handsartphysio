@@ -1,5 +1,5 @@
 nav{
-    background-color: #fff;
+    background-color: #ddd;
     width: 100%;
     height: auto;
     border-radius: 0px !important;
@@ -8,7 +8,7 @@ nav{
 /* nav.css */
 
 .logo-img {
-    width: 117px;
+    width: 70px;
     height: auto;
     border-radius: 100px;
     /* You can add more styling here if needed */
@@ -56,7 +56,7 @@ nav .navbar-nav button{
 }
 
 nav .navbar-nav button span{
-    background-color: #fff;
+    /* background-color: #fff; */
     color: var(--btn-color);
     width: 40px;
     border-radius: 4px;
@@ -98,7 +98,7 @@ nav .navbar-nav button:hover{
 }
 [type-button]:not(:disabled), [type-reset]:not(:disabled), [type-submit]:not(:disabled), button:not(:disabled) {
     cursor: pointer;
-    background-color: var(--btn-color);
+    /* background-color: var(--btn-color); */
     border: 1px solid var(--btn-color);
     border-radius: 0px;
 }

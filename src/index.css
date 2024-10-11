@@ -20,7 +20,7 @@ section , footer , header{
   height: auto;
   overflow: hidden;
   max-width: 100%;
-  padding: 25px 0px;
+  /* padding: 25px 0px; */
   margin-top: 50px;
 }
 
@@ -65,7 +65,7 @@ input{
 /* start css to the footer */
 footer img.footerlogo{
   margin: 15px 0px;
-  width: 150px;
+  width: 100px;
   border-radius: 100px;
   height: auto;
 }

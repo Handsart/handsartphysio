@@ -36,13 +36,13 @@ const Navbars = ()=> {
 
               {/* <Nav.Link>Contact Us</Nav.Link> */}
               <Nav.Link><FontAwesomeIcon icon={faSearch} /></Nav.Link>
-                  <Nav.Link href="tel:+919205011372">
+                  <Nav.Link href="tel:+919711841779">
                     <FontAwesomeIcon icon={faPhone} className='phone' />
-                            (+91) 9205011372
+                            (+91) 9711841779
                     </Nav.Link>
-                  <Nav.Link>
+                    <Nav.Link href="tel:+919711841779">
                     <button>contact us <span> > </span></button>
-                        </Nav.Link>
+                    </Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
