@@ -1,18 +1,39 @@
 {
   "files": {
-    "main.css": "/handsart-physio/static/css/main.4268c04f.css",
-    "main.js": "/handsart-physio/static/js/main.f798e045.js",
-    "static/js/787.7efd31bd.chunk.js": "/handsart-physio/static/js/787.7efd31bd.chunk.js",
-    "static/media/i17rc.png": "/handsart-physio/static/media/i17rc.a352912a7a37ead10f6f.png",
-    "static/media/logoHanstart.png": "/handsart-physio/static/media/logoHanstart.bf3f5bb11bb2cadf8bc8.png",
-    "static/media/ins.png": "/handsart-physio/static/media/ins.7bf0e187e121780e7a38.png",
-    "index.html": "/handsart-physio/index.html",
-    "main.4268c04f.css.map": "/handsart-physio/static/css/main.4268c04f.css.map",
-    "main.f798e045.js.map": "/handsart-physio/static/js/main.f798e045.js.map",
-    "787.7efd31bd.chunk.js.map": "/handsart-physio/static/js/787.7efd31bd.chunk.js.map"
+    "main.css": "/handsart-physio-and-rehab/static/css/main.02e35781.css",
+    "main.js": "/handsart-physio-and-rehab/static/js/main.375cdb20.js",
+    "static/js/787.7efd31bd.chunk.js": "/handsart-physio-and-rehab/static/js/787.7efd31bd.chunk.js",
+    "static/media/r6.png": "/handsart-physio-and-rehab/static/media/r6.8e2da205826bf9357ec0.png",
+    "static/media/r3.png": "/handsart-physio-and-rehab/static/media/r3.f708201441d7bbdca715.png",
+    "static/media/r5.png": "/handsart-physio-and-rehab/static/media/r5.9db2853f75b259b438aa.png",
+    "static/media/r4.png": "/handsart-physio-and-rehab/static/media/r4.387e4b06cfb6deb936fc.png",
+    "static/media/logoHanstart.png": "/handsart-physio-and-rehab/static/media/logoHanstart.bf3f5bb11bb2cadf8bc8.png",
+    "static/media/i26.jpeg": "/handsart-physio-and-rehab/static/media/i26.88401ee61e22d76d94d1.jpeg",
+    "static/media/Headaches_and_Migraines.jpeg": "/handsart-physio-and-rehab/static/media/Headaches_and_Migraines.429d8749ed62e9b6be42.jpeg",
+    "static/media/i21.jpeg": "/handsart-physio-and-rehab/static/media/i21.c26ec2ab49cc27a6a6de.jpeg",
+    "static/media/i25.jpeg": "/handsart-physio-and-rehab/static/media/i25.150357557dcde377cc4d.jpeg",
+    "static/media/i22.jpeg": "/handsart-physio-and-rehab/static/media/i22.6a01e8510df03b6a65d0.jpeg",
+    "static/media/i24.jpeg": "/handsart-physio-and-rehab/static/media/i24.49cacd354772c84ca5ff.jpeg",
+    "static/media/i20.jpeg": "/handsart-physio-and-rehab/static/media/i20.79fdcd6b3b855650985d.jpeg",
+    "static/media/Physical_Therapy.jpg": "/handsart-physio-and-rehab/static/media/Physical_Therapy.a2878f2f9b43ea32ba31.jpg",
+    "static/media/insr.png": "/handsart-physio-and-rehab/static/media/insr.b2449a6474468f4a95f5.png",
+    "static/media/ins.png": "/handsart-physio-and-rehab/static/media/ins.7bf0e187e121780e7a38.png",
+    "static/media/i19.jpeg": "/handsart-physio-and-rehab/static/media/i19.8362a46ae8df81d2fed5.jpeg",
+    "static/media/Stress_and_Sleep_Disorders.jpg": "/handsart-physio-and-rehab/static/media/Stress_and_Sleep_Disorders.0f471e311fc5fb5ea762.jpg",
+    "static/media/fbr.png": "/handsart-physio-and-rehab/static/media/fbr.08eb0845896af1bef8a9.png",
+    "static/media/twr.png": "/handsart-physio-and-rehab/static/media/twr.258f66000f40db61f84d.png",
+    "static/media/yt.png": "/handsart-physio-and-rehab/static/media/yt.cd9aa8bb4632cc7b3bc6.png",
+    "static/media/slick.svg": "/handsart-physio-and-rehab/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/handsart-physio-and-rehab/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/handsart-physio-and-rehab/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/handsart-physio-and-rehab/index.html",
+    "static/media/slick.woff": "/handsart-physio-and-rehab/static/media/slick.295183786cd8a1389865.woff",
+    "main.02e35781.css.map": "/handsart-physio-and-rehab/static/css/main.02e35781.css.map",
+    "main.375cdb20.js.map": "/handsart-physio-and-rehab/static/js/main.375cdb20.js.map",
+    "787.7efd31bd.chunk.js.map": "/handsart-physio-and-rehab/static/js/787.7efd31bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4268c04f.css",
-    "static/js/main.f798e045.js"
+    "static/css/main.02e35781.css",
+    "static/js/main.375cdb20.js"
   ]
 }
